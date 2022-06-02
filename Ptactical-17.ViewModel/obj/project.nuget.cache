@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8VsI8NNvlZQuKyGqgTwiiu2Uou6wVk7sueFHt4utOEiqmYs5VFnBYpCDaXtY8Q9oWZmbsYXQ7HDjXxfPRXDP+Q==",
+  "dgSpecHash": "EBLzwcwdOy4qy4d/dmwYFAKRufmMaqJUZnAje4tuzJPsFBdxpFa9I1Z6rpHTxlJWwExL17ahqmWTnxwH4dSijw==",
   "success": true,
-  "projectFilePath": "C:\\Core\\Practical-17\\Ptactical-17.ViewModel\\Ptactical-17.ViewModel.csproj",
+  "projectFilePath": "C:\\Core_Practicals\\Practical-17\\Ptactical-17.ViewModel\\Ptactical-17.ViewModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janvi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\janvi\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
